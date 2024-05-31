@@ -1,0 +1,1 @@
+Beginner effort to create an application to simulate future case occurence based on basic demographic and epidemiological chacterisitcs using SIER model for measles. Further improvemets and refinements planned. Collaborative learnrers and guides welcome!
